@@ -122,6 +122,7 @@ const Orders = () => {
           <button>VIEW</button>
         </div>
       </div>
+      <button>NEXT</button>
     </div>
   );
 }
